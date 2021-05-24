@@ -3,7 +3,13 @@ import numpy as np
 L = list(range(10))  #Create list 
 
 arr = np.array([1,2,3,4]) #Create array with np
-print(arr)
+
+arr2 = np.array((4,5,6,7)) # To create an ndarray, we can pass a list, 
+                         #tuple or any array-like object into the array()
+                       # method, and it will be converted into an ndarray:
+
+                       
+
 
 
 
